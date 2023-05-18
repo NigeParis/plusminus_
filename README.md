@@ -11,7 +11,7 @@ It tells you if the mystery number is higher or lower than the one you entered.
 5 - Then the computer asks you for the number again.
 and it tells you whether the mystery number is higher or lower.
 6 - And so on, until you find the mystery number. 
-7 - The object of the game, of course, is to find the mystery number in as few moves as possible.
+7 - The object of the game, of course, is to find the mystery number in as few moves as possible. 
 
 
 Le principe est le suivant.
