@@ -1,4 +1,4 @@
-EXEC=exec
+EXEC=plusminus
 CFLAGS=-Wall -Wextra -Werror
 CC=gcc
 FF=ft_plus_minus
