@@ -13,7 +13,7 @@ $(EXEC): main.o $(FF).o
 main.o: main.c $(FF).h
 	$(CC) $(CFLAGS) -c main.c
 
-ft_atoi_base.o: $(FF).c
+$(FF).o: $(FF).c
 	$(CC) $(CFLAGS) -c $(FF).c
 
 .PHONY: clean
