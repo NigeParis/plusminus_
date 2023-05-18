@@ -2,7 +2,8 @@
 
 The principle is the following.
 
-1 - The computer randomly draws a number between 1 and 10000\n
+1 - The computer randomly draws a number between 1 and 10000
+
 2 - There are 3 levels EASY, NORMAL and HARD - 1 to 10, 1 to 100 and 1 to 10000
 3 - He asks you to guess the number. So you enter a number between 1 and 10000.
 4 - The computer compares the number you entered with the “mystery” number it drew. 
