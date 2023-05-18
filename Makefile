@@ -19,4 +19,3 @@ $(FF).o: $(FF).c
 .PHONY: clean
 clean:
 	rm -rf $(EXEC) *.o
-
